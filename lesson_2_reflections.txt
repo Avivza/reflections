@@ -15,3 +15,11 @@ it gives a grphic method to understand the flow of the branches
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 a branch that contain all of the changes that were done in the two former branches 
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+PRONS
+saves time
+easy to do
+CONS
+might have duplicates
+might confuse
